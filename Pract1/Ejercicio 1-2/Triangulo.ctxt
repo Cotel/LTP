@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=cx\ cy\ b\ a
+comment0.target=Triangulo(double,\ double,\ double,\ double)
+comment1.params=
+comment1.target=double\ getX()
+comment2.params=
+comment2.target=double\ getY()
+comment3.params=
+comment3.target=double\ getBase()
+comment4.params=
+comment4.target=double\ getAltura()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=o
+comment6.target=boolean\ equals(java.lang.Object)
+numComments=7

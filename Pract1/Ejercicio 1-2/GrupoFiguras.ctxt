@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getNumF()
+comment1.params=o
+comment1.target=void\ anyadeFigura(java.lang.Object)
+comment2.params=c
+comment2.target=void\ anyadeCirculo(Circulo)
+comment3.params=t
+comment3.target=void\ anyadeTriangulo(Triangulo)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a\ b\ c
+comment0.target=Circulo(double,\ double,\ double)
+comment1.params=
+comment1.target=double\ getX()
+comment2.params=
+comment2.target=double\ getY()
+comment3.params=
+comment3.target=double\ getR()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+numComments=6
